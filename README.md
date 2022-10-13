@@ -1,5 +1,5 @@
 
-<p><img  alt="gif" src="https://github.com/vladi4560/vladi4560/blob/Projects/Vladi%20Karasove.gif" width="600" height="700"  /></p>
+<p align="center"> <img  alt="gif" src="https://github.com/vladi4560/vladi4560/blob/Projects/Vladi%20Karasove.gif" width="600" height="700"  /></p>
 
 <h1 align="center">Hi 👋, I'm Vladi Karasove</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
