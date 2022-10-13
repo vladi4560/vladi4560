@@ -1,3 +1,6 @@
+<img src="https://www.canva.com/design/DAFO7T8zRrE/1OqhIdEZvNHTsJbtzDrGEA/edit?utm_content=DAFO7T8zRrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="500" height="300" />
+
+
 <h1 align="center">Hi 👋, I'm Vladi Karasove</h1>
 <h3 align="center">A passionate software engineering Student / Mobile Developer / Android</h3>
 
