@@ -7,7 +7,32 @@
 </p>
 
 ---
+### 🔧 My Tech Stack (Structured View)
 
+```js
+const vladi = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Kotlin", "Swift/UI", "Java", "Liquid", "C#", "C/C++"],
+  askMeAbout: ["full-stack dev", "mobile dev", "Braze", "React", "Node.js", "Flutter"],
+  technologies: {
+    frontend: {
+      js: ["React", "React Native"],
+      css: ["Tailwind", "Bootstrap"],
+      uiux: ["Figma", "Adobe XD"]
+    },
+    backend: {
+      js: ["Node.js", "Express.js"],
+      others: ["Java", "Kotlin", "Swift"]
+    },
+    databases: ["Microsoft SQL Server", "PostgreSQL", "MySQL", "Firebase", "MongoDB", "Pinata Cloud"],
+    tools: ["VS Code", "Android Studio", "Xcode", "IntelliJ", "Visual Studio", "Eclipse", "PyCharm", "Unity3D"],
+    methodologies: ["MVVM", "MVC", "MVI", "MVP", "OOD", "OOP", "Design Patterns", "SOLID", "OSI", "Multi-Threading"],
+    versionControl: ["GitHub", "Bitbucket"],
+    management: ["Jira"]
+  }
+};
+```
+---
 ### 💻 About Me
 
 💻 About Me
@@ -70,34 +95,6 @@ If you're into clean code, creative problem-solving, or just love building cool 
 - 🧠 [Knowyyy](https://knowyyy.com) –  is a no-code platform for building interactive surveys, quizzes, KYC flows, and calculators with advanced customization, real-time analytics, and seamless integrations.
 - 🃏 [Legend Tale](https://github.com/yourusername/legend-tale) – A card battle game inspired by Hearthstone.
 - 📱 [Braze Flutter Plugin](https://github.com/yourusername/braze-flutter) – Custom cross-platform SDK integration for push and content cards.
-
----
-
-### 🔧 My Tech Stack (Structured View)
-
-```js
-const vladi = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Kotlin", "Swift/UI", "Java", "Liquid", "C#", "C/C++"],
-  askMeAbout: ["full-stack dev", "mobile dev", "Braze", "React", "Node.js", "Flutter"],
-  technologies: {
-    frontend: {
-      js: ["React", "React Native"],
-      css: ["Tailwind", "Bootstrap"],
-      uiux: ["Figma", "Adobe XD"]
-    },
-    backend: {
-      js: ["Node.js", "Express.js"],
-      others: ["Java", "Kotlin", "Swift"]
-    },
-    databases: ["Microsoft SQL Server", "PostgreSQL", "MySQL", "Firebase", "MongoDB", "Pinata Cloud"],
-    tools: ["VS Code", "Android Studio", "Xcode", "IntelliJ", "Visual Studio", "Eclipse", "PyCharm", "Unity3D"],
-    methodologies: ["MVVM", "MVC", "MVI", "MVP", "OOD", "OOP", "Design Patterns", "SOLID", "OSI", "Multi-Threading"],
-    versionControl: ["GitHub", "Bitbucket"],
-    management: ["Jira"]
-  }
-};
-```
 
 ---
 
