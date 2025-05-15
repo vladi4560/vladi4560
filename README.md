@@ -186,6 +186,6 @@ const vladi = {
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/V2bPiYh.jpeg" alt="One Piece Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/ef/90/eb/ef90eba2bc52697de0c36d3e5826d1f0.jpg" alt="One Piece Banner" width="100%" />
 </p>
 
