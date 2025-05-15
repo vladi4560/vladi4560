@@ -88,7 +88,7 @@ If you're into clean code, creative problem-solving, or just love building cool 
 
 ### 📌 Featured Projects
 
-- 🧠 [Knowyyy](https://knowyyy.com) – Smart CRM web platform, integrated with Braze, custom UI blocks & API logic.
+- 🧠 [Knowyyy](https://knowyyy.com) –  is a no-code platform for building interactive surveys, quizzes, KYC flows, and calculators with advanced customization, real-time analytics, and seamless integrations.
 - 🃏 [Legend Tale](https://github.com/yourusername/legend-tale) – A card battle game inspired by Hearthstone.
 - 📱 [Braze Flutter Plugin](https://github.com/yourusername/braze-flutter) – Custom cross-platform SDK integration for push and content cards.
 
@@ -205,3 +205,8 @@ const vladi = {
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://i.imgur.com/V2bPiYh.jpeg" alt="One Piece Banner" width="100%" />
+</p>
+
