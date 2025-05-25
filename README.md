@@ -11,7 +11,6 @@
 
 ```js
 const vladi = {
-  pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "Kotlin", "Swift/UI", "Java", "Liquid", "C#", "C/C++"],
   askMeAbout: ["full-stack dev", "mobile dev", "Braze", "React", "Node.js", "Flutter"],
   technologies: {
